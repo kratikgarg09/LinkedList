@@ -147,6 +147,7 @@ int main()
 
     cout << "Address of Head = " << head->next << endl;
     cout << "Address of Tail = " << tail->next << endl; */
+    
     if (isCircular(head))
     {
         cout << "true" << endl;
